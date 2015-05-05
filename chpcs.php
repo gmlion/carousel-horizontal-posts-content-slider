@@ -1,12 +1,9 @@
 <?php
 /*
-Plugin Name: Carousel Horizontal Posts Content Slider
-Description: A simple horizontal posts content slider plugin.
-Author: subhansanjaya
-Version: 3.2.5 fork
-Plugin URI: http://wordpress.org/plugins/carousel-horizontal-posts-content-slider/
-Author URI: http://www.weaveapps.com
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BXBCGCKDD74UE
+Plugin Name: Carousel Horizontal Posts Content Slider Fork
+Description: A fork of Carousel Horizontal Posts Content Slider
+Author: Gianmarco Leone
+Version: 3.2.5fork
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
